@@ -1,4 +1,4 @@
-### 안녕하세요, iOS 개발자 박중규입니다.
+### 안녕하세요, iOS Developer & Software Engineer 박중규입니다.
 ### 📬 Contact
 - **jk.park.tech@gmail.com**
 ### 📚 Skill
